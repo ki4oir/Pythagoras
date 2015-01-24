@@ -1,0 +1,9 @@
+package pythag;
+
+import java.util.Scanner;
+
+public class Pythag {
+
+  public static void main(String[] args) {
+  
+
