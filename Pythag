@@ -18,6 +18,11 @@ public class Pythag {
     
     System.out.printf("Longest side or hypotenuse = %.2f\n", hypotneuse);
     
-    
-  
+    System.out.printf("Hypotenuse using Math.hypot() = %.2f\n", Math.hypot(a, b));
 
+    //how could you rewrite the statement so it uses the Math class function pow() ?
+    //c = a*a + b*b
+    //c = pow(a, 2) + pow(b, 2)
+
+  }
+}
